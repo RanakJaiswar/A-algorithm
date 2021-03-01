@@ -14,9 +14,9 @@ A* terminologies:
 		h(n) — this represents the heuristic estimated cost from node n to the goal node.
 		f(n) — lowest cost in the neighboring node n
 		
-		Each time A* enters a node, it calculates the cost, f(n)(n being the neighboring node), to travel to all of the neighboring nodes, and then enters the node with 		 the lowest value of f(n).
-		T
-		hese values we calculate using the following formula:
+		Each time A* enters a node, it calculates the cost, f(n)(n being the neighboring node), to travel to all of the neighboring nodes, and then enters the node with the lowest value of f(n).
+
+		These values we calculate using the following formula:
 		f(n) = g(n) + h(n)
 
 install pygame 
