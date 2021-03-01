@@ -11,8 +11,8 @@ A* achieve optimality and completeness, two valuable property of search algorith
 When a search algorithm has the property of optimality, it means it is guaranteed to find the best possible solution. When a search algorithm has the property of completeness, it means that if a solution to a given problem exists, the algorithm is guaranteed to find it.
 
 Now to understand how A* works, first we need to understand a few terminologies:
-      Node (also called State) — All potential position or stops with a unique identification
-      Transition — The act of moving between states or nodes.
+Node (also called State) — All potential position or stops with a unique identification
+Transition — The act of moving between states or nodes.
       Starting Node — Whereto start searching
       Goal Node — The target to stop searching.
       Search Space — A collection of nodes, like all board positions of a board game
