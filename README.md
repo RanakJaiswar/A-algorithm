@@ -18,6 +18,6 @@ install pygame
 
 4 - hittig the spacebar would start the algorithm 
 
-![]()
+![](https://github.com/RanakJaiswar/A-algorithm/blob/main/images/A_%20Path%20Finding%20Algorithm%2001-03-2021%2011_13_00.png)
 
 5 - Press key "C" to clear the grid
